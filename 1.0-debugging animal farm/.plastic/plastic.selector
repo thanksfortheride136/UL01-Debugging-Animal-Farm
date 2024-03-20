@@ -1,0 +1,4 @@
+repository "1.0-debugging animal farm@cooperl136@cloud"
+  path "/"
+    br "/main"
+    co "/main"
